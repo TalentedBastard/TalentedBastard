@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalentedBastard
-- 👀 I’m interested in bike, books,   
-- 🌱 I’m currently learning how to build a data process pipeline
+- 👀 Reading, Coding, Gaming and Road Bike
+- 🌱 Data pipeline engineer 
 
 <!---
 TalentedBastard/TalentedBastard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
